@@ -20,9 +20,11 @@
     {"name":"o_green_slime","order":2,"path":"objects/o_green_slime/o_green_slime.yy",},
     {"name":"o_red_slime","order":1,"path":"objects/o_red_slime/o_red_slime.yy",},
     {"name":"o_skeleton","order":4,"path":"objects/o_skeleton/o_skeleton.yy",},
+    {"name":"Object6","order":5,"path":"objects/Object6/Object6.yy",},
     {"name":"blue_slime","order":2,"path":"sprites/blue_slime/blue_slime.yy",},
     {"name":"e_skeleton","order":4,"path":"sprites/e_skeleton/e_skeleton.yy",},
     {"name":"green_slime","order":3,"path":"sprites/green_slime/green_slime.yy",},
     {"name":"red_slime","order":1,"path":"sprites/red_slime/red_slime.yy",},
+    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
   ],
 }

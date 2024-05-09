@@ -10,6 +10,8 @@ HP_height = 10;
 HP_y = (1920) - (1080);
 HP_x = 300;
 
-
-
 Flash = 0;
+
+fire_rate = 30;
+can_fire = true;
+arrow_speed = 20;

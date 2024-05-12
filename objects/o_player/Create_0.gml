@@ -1,6 +1,6 @@
 /// @description Player Variables
 // You can write your code in this editor
-walk_spd = 6;
+walk_spd = 3;
 
 HP = 100;
 HPMX = 100;
